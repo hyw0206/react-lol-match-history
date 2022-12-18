@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-lol-match-history/static/css/main.049d2f47.css",
+    "main.js": "/react-lol-match-history/static/js/main.e44245ba.js",
+    "static/js/787.ed32c67d.chunk.js": "/react-lol-match-history/static/js/787.ed32c67d.chunk.js",
+    "index.html": "/react-lol-match-history/index.html",
+    "main.049d2f47.css.map": "/react-lol-match-history/static/css/main.049d2f47.css.map",
+    "main.e44245ba.js.map": "/react-lol-match-history/static/js/main.e44245ba.js.map",
+    "787.ed32c67d.chunk.js.map": "/react-lol-match-history/static/js/787.ed32c67d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.049d2f47.css",
+    "static/js/main.e44245ba.js"
+  ]
+}
