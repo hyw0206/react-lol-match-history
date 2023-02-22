@@ -115,7 +115,9 @@
   border: 2px solid black;
   text-align: center;
 }
-
+.summoner-info div {
+ margin: 8px; 
+}
 .lol-rank div {
   margin: 8px;
   text-align: center;
