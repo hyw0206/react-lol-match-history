@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-lol-match-history/static/css/main.4e2b3e09.css",
-    "main.js": "/react-lol-match-history/static/js/main.5caf63da.js",
+    "main.css": "/react-lol-match-history/static/css/main.9a6b8e72.css",
+    "main.js": "/react-lol-match-history/static/js/main.c100440e.js",
     "static/js/787.ed32c67d.chunk.js": "/react-lol-match-history/static/js/787.ed32c67d.chunk.js",
     "index.html": "/react-lol-match-history/index.html",
-    "main.4e2b3e09.css.map": "/react-lol-match-history/static/css/main.4e2b3e09.css.map",
-    "main.5caf63da.js.map": "/react-lol-match-history/static/js/main.5caf63da.js.map",
+    "main.9a6b8e72.css.map": "/react-lol-match-history/static/css/main.9a6b8e72.css.map",
+    "main.c100440e.js.map": "/react-lol-match-history/static/js/main.c100440e.js.map",
     "787.ed32c67d.chunk.js.map": "/react-lol-match-history/static/js/787.ed32c67d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e2b3e09.css",
-    "static/js/main.5caf63da.js"
+    "static/css/main.9a6b8e72.css",
+    "static/js/main.c100440e.js"
   ]
 }
