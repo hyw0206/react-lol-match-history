@@ -10,7 +10,7 @@ function App() {
   const [mastery, setMastery] = useState(null);
   const [matchInfo, setMatchInfo] = useState([]);
   // 변수 세팅
-  const api_key = "";
+  const api_key = "RGAPI-c94d4a9e-98ba-46bf-b7d9-b60c0cc6e929";
   const inputEl = useRef(null);
   const fetch = async (nickname = "hide on bush") => {
     try {
